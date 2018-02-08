@@ -5,6 +5,6 @@ return obj;
 }
 
 function removeFromPlaylist(obj, key) {
- obj.key = delete obj.key;
+ obj = delete obj.key;
  return obj;
 }
