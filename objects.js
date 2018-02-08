@@ -6,5 +6,5 @@ return obj;
 
 function removeFromPlaylist(obj, key) {
 delete obj.key;
-return value;
+return ;
 }
