@@ -5,5 +5,5 @@ return obj;
 }
 
 function removeFromPlaylist(obj, key) {
-return 
+return Object.assign({})
 }
